@@ -1,0 +1,18 @@
+lll
+
+C:\Program Files\Java\jdk1.8.0_181\
+
+C:\Users\intel\AppData\Local\Programs\Python\Python35-32\Scripts\;C:\Users\intel\AppData\Local\Programs\Python\Python35-32\;D:\Java\jdk1.7.0_75\bin;D:\Java\jdk1.7.0_75\jre;D:\Java\jdk1.7.0_75\db\lib\derby.jar;D:\Java\jdk1.7.0_75\db\lib\derbyclient.jar
+earlier java
+
+C:\Users\intel\AppData\Local\Programs\Python\Python35-32\Scripts\;C:\Users\intel\AppData\Local\Programs\Python\Python35-32\;C:\Program Files\Java\jdk1.8.0_181\bin;C:\Program Files\Java\jdk1.8.0_181\jre
+
+
+C:\Program Files\Java\jdk1.8.0_181\bin
+
+C:\Program Files\Java\jdk1.8.0_181\jre
+
+9415115343
+
+5942235281
+
